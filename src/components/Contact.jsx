@@ -12,7 +12,7 @@ const Contact = () => {
 
       <form
         className="contact-form"
-        action="mailto:cedrickonan1998@email.com"
+        action="mailto:cedrickonan1998@gmail.com"
         method="POST"
         encType="text/plain"
       >
