@@ -4,7 +4,7 @@ const About = () => {
     <section id="about" className="section">
       <h2 className="section-title">À propos</h2>
       <p className="section-text">
-        Issu d’une formation en mathématiques appliquées et data science, je conçois des modèles de machine learning et deep learning et développe des applications intelligentes capables de transformer les données en informations utiles à la prise de décision.
+        Issu d’une Formations en mathématiques appliquées et data science, je conçois des modèles de machine learning et deep learning et développe des applications intelligentes capables de transformer les données en informations utiles à la prise de décision.
 
         Je maîtrise Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), ainsi que le développement d’applications web avec Django, Node.js et React, ce qui me permet d’intégrer efficacement des modèles IA dans des solutions concrètes et opérationnelles.
 

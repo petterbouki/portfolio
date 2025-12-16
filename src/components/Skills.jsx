@@ -10,13 +10,15 @@ const skills = {
     "Edge AI"
   ],
   "Outils & Langages": [
+    "R",
     "Python",
     "Scikit-learn",
     "TensorFlow",
     "PyTorch",
     "Pandas",
     "NumPy",
-    "SQL"
+    "SQL",
+    "Excel"
   ],
   "IoT & Systèmes": [
     "IoT",
