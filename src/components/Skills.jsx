@@ -18,6 +18,7 @@ const skills = {
     "Pandas",
     "NumPy",
     "SQL",
+    "NoSGL",
     "Excel"
   ],
   "IoT & Systèmes": [
