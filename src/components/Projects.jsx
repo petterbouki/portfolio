@@ -38,21 +38,21 @@ const projects = [
     title: "Étude de marché agro-industrielle (Côte d’Ivoire)",
     description:
       "Analyse complète du secteur agro-industriel ivoirien : acteurs clés, chaînes de valeur, tendances, opportunités d’investissement et risques.",
-    link: "https://meteo20.shinyapps.io/data/",
+    link: "#",
     tech: ["Étude de marché", "Analyse statistique", "Data Collection"]
   },
   {
     title: "API de réseau social",
     description:
       "Conception et développement d’une API backend pour un réseau social avec définition de la cible, des fonctionnalités et du contenu innovant.",
-    link: "https://meteo20.shinyapps.io/data/",
+    link: "#",
     tech: ["Node.js", "API REST", "Base de données"]
   },
   {
     title: "Système IoT de collecte et traitement de données 2025",
     description:
       "Projet IoT intégrant des capteurs pour la collecte de données en temps réel et leur exploitation via des modèles d’analyse et d’IA.",
-    link: "https://meteo20.shinyapps.io/data/",
+    link: "#",
     tech: ["IoT", "Capteurs", "Edge AI", "Traitement temps réel"]
   },
   {
