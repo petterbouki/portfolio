@@ -81,6 +81,16 @@ const projects = [
     "ROC-AUC"
   ]
 },
+{
+  title : "Conception et Implementation d'une application parallèle pour le traitement massif de données",
+  description:"Mise en place d'une application capable de repondre aux limites des logiciels existant lors des traitements des données à fort volume",
+  link:"#",
+  tech:[
+    "Python",
+    "html;css;javascript",
+    "Django"
+  ]
+},
 
 ];
 

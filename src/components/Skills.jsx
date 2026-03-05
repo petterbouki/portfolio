@@ -18,11 +18,11 @@ const skills = {
     "Pandas",
     "NumPy",
     "SQL",
-    "NoSGL",
+    "NoSQL(mongoDB)",
     "Excel"
   ],
   "IoT & Systèmes": [
-    "IoT",
+    "IoT(Arduino,ESP, et autres...",
     "Capteurs & Données embarquées",
     "Traitement temps réel"
   ],
@@ -34,7 +34,8 @@ const skills = {
   ],
   "DevOps & Collaboration": [
     "Git & GitHub",
-    "Docker (bases)"
+    "Docker (bases)",
+    "Kubernete( en cours)"
   ]
 };
 
